@@ -1,4 +1,4 @@
-This project appears to focus on experimenting with Natural Language Processing (NLP) tasks using Huggingface transformers, including fine-tuning models for text classification, question answering, semantic similarity, and more complex linguistic problems. Here's a high-level summary of the tasks included:
+This project focuses on experimenting with Natural Language Processing (NLP) tasks using Huggingface transformers, including fine-tuning models for text classification, question answering, semantic similarity, and more complex linguistic problems. Here's a high-level summary of the tasks included:
 
 A. Text Classification on Yelp Reviews (Fine-tuning a Pretrained Model)
 The project begins with fine-tuning a pre-trained model (such as DistilBERT) on the Yelp Polarity dataset to classify restaurant reviews into positive and negative categories. It explores tokenization, data preprocessing, and training using transformers, focusing on various hyperparameters like learning rate and batch size.
